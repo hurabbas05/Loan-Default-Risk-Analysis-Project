@@ -14,7 +14,7 @@ This data analytics project explores key factors influencing loan default risk u
 ## 📁 Project Files:
 - `loan_default_analysis.ipynb` – Jupyter notebook with full code
 - `loan_default_analysis.html` – Exported HTML version for preview
-- `Loan_Default_Presentation.pdf` – Final slide deck presentation
+- `Loan_Default_Presentation.pptx` – Final slide deck presentation
 - `README.md` – You’re reading it!
 
 ## 🛠️ Tools Used:
