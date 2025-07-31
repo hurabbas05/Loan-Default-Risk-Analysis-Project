@@ -1,6 +1,4 @@
-# loan-default-risk-analysis
-Data-driven loan default risk analysis using Python, Pandas, and Matplotlib.
-# 📊 Loan Default Risk Analysis Project
+# Loan Default Risk Analysis Project
 
 This data analytics project explores key factors influencing loan default risk using a structured approach in Python.
 
