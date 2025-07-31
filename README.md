@@ -1,5 +1,5 @@
 
-<h1 align="center">📊 Loan Default Risk Analysis Project</h1>
+<h1 align="center"> Loan Default Risk Analysis Project</h1>
 
 <p align="center">
   🔍 Data-Driven Risk Profiling | 💡 Predictive Modeling | 📈 Visual Storytelling
