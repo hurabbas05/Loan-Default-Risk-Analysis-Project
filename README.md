@@ -67,7 +67,13 @@ This project explores the key factors contributing to **loan defaults** by apply
 - Jupyter Notebook with complete analysis pipeline  
 
 ---
+## 👨‍💻 Author
 
+**Syed Hur Abbas Naqvi**  
+📧 [syedhur572@gmail.com](mailto:syedhur572@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/hurabbas05)
+
+---
 ## 🌟 Star This Repo
 
 If you found this project helpful, feel free to ⭐ **star this repository** to support and bookmark it!
