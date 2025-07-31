@@ -36,14 +36,6 @@ This project explores the key factors contributing to **loan defaults** by apply
 
 ---
 
-- 📈 **Insightful Findings**  
-  - Young and low-income applicants showed higher default risk  
-  - Higher loan amounts correlated with more defaults  
-  - Loan purpose and home ownership played strong roles
-
-
----
-
 ## 📊 Key Insights
 
 - Young and low-income applicants show **higher default risk**
