@@ -69,12 +69,13 @@ This project explores the key factors contributing to **loan defaults** by apply
 ---
 ## 🙋‍♂️ Author
 
-**Syed Hur Abbas Naqvi**  
+I’m **Syed Hur Abbas Naqvi**, a Certified Data Analyst skilled in **Python, SQL, Microsoft Power BI, Excel, and Machine Learning**.  
+I specialize in turning raw data into **business intelligence that drives growth** — from **data cleaning & EDA** to **visualization & strategic insights**.
+
 🌐 **Portfolio:** [https://hurabbas05.github.io/](https://hurabbas05.github.io/)  
 🔗 **LinkedIn:**  [https://www.linkedin.com/in/hurabbas05/](https://www.linkedin.com/in/hurabbas05/)  
 📧 **Email:**     [syedhur572@gmail.com](mailto:syedhur572@gmail.com)  
 📞 **Phone:**     [+923036098700](tel:+923036098700)
-
 
 ---
 ## 🌟 Star This Repo
