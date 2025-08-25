@@ -62,7 +62,7 @@ This project explores the key factors contributing to **loan defaults** by apply
 
 - Cleaned and preprocessed dataset  
 - Grouped bar chart visualizations  
-- Trained ML models (Logistic & RF)  
+- Trained ML models (Logistic & Random Forest)  
 - Insightful visual storytelling  
 - Jupyter Notebook with complete analysis pipeline  
 
